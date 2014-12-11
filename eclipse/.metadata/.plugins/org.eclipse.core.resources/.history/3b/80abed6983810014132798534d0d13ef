@@ -1,0 +1,5 @@
+package com.brandomine.simplecraft.handler;
+
+public class GuiHandler {
+
+}

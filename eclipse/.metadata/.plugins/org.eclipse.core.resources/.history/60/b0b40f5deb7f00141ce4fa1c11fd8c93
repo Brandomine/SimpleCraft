@@ -1,0 +1,5 @@
+package com.simplecraft.core.proxy;
+
+public class ClientProxy extends CommonProxy{
+
+}

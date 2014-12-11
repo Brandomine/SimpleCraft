@@ -1,0 +1,8 @@
+package com.simplecraft;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(name = "SimpleCraft Magic", modid = "SimpleCraft|Magic", version = "alpha 0.0.2")
+public class SimpleCraftMagic {
+
+}

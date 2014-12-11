@@ -1,0 +1,14 @@
+package com.brandomine.simplecraft;
+
+
+
+import com.oracle.jrockit.jfr.EventDefinition;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(name = "SimpleCraft", modid = "simplecraft", version = "alpha 0.0.1")
+
+@EventHandler
+public class SimpleCraft {
+	
+}

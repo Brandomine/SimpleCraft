@@ -1,0 +1,13 @@
+package com.simplecraft.core.items;
+
+import com.simplecraft.SimpleCraftCore;
+
+public class ItemBlueZendorium extends ItemWrapper{
+	public ItemBlueZendorium()
+	{
+		super();
+		this.setUnlocalizedName("itemBlueZendorium");
+		this.setCreativeTab(com.simplecraft.SimpleCraftCore.Core_Tab);
+	}
+
+}

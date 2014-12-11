@@ -1,0 +1,22 @@
+package com.simplecraft;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+import cpw.mods.fml.common.Mod;
+
+@Mod(name = "SimpleCraft Core", modid = "SimpleCraft|Core", version = "alpha 0.0.2")
+public class SimpleCraftCore {
+	
+public static final CreativeTabs Core_Tab = new CreativeTabs("SimpleCraft|Core") {
+		
+		@Override
+		public Item getTabIconItem() { 
+			return com.simplecraft.core.init.ModItems.BlueZendorium;
+		}
+		@Override
+		public String getTranslatedTabLabel()
+		{
+			return "SimpleCraft Core";
+		}
+	};
+}

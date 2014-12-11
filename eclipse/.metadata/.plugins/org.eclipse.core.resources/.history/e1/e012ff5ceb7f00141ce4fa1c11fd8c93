@@ -1,0 +1,5 @@
+package com.simplecraft.machines.proxy;
+
+public interface IProxy {
+
+}

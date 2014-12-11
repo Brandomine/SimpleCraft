@@ -1,0 +1,15 @@
+package com.simplecraft.core.init;
+
+import com.simplecraft.core.items.ItemBlueZendorium;
+import com.simplecraft.core.items.ItemWrapper;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems {
+	public static final ItemWrapper BlueZendorium = new ItemBlueZendorium();
+	
+	public static void init()
+	{
+		GameRegistry.registerItem(BlueZendorium, "BlueZendorium", com.simplecraft.core.reference.References.MOD_ID);
+	}
+}
