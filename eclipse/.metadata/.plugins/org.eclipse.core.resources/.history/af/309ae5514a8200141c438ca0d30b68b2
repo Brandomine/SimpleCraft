@@ -20,9 +20,5 @@ public final class Names {
 		public static final String BLUE_GEAR = "blueGear";
 		public static final String GREEN_GEAR = "greenGear";
 		public static final String RED_GEAR = "redGear";
-		//Strengthened gears
-		public static final String REFINED_BLUE_GEAR = "refinedBlueGear";
-		public static final String REFINED_GREEN_GEAR = "refinedGreenGear";
-		public static final String REFINED_RED_GEAR = "refinedRedGear";
 	}
 }
