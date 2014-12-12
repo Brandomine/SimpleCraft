@@ -1,7 +1,0 @@
-package com.simplecraft.core.items;
-
-com.simplecraft.core.items.ItemWrapper
-
-public interface ItemBlueZendorium extends ItemWrapper{
-
-}

@@ -1,8 +1,0 @@
-package com.brandomine.technomagi;
-
-import cpw.mods.fml.common.Mod;
-
-@Mod(name = "T")
-public class Technomagi {
-
-}

@@ -1,8 +1,0 @@
-package com.simplecraft;
-
-import cpw.mods.fml.common.Mod;
-
-@Mod(name = "SimpleCraft Blocks", modid = "SimpleCraft|Blocks", version = "alpha 0.0.2")
-public class SimpleCraftBlocks {
-
-}

@@ -1,9 +1,0 @@
-package com.simplecraft.core.reference;
-
-public class References {
-	public static final String MOD_ID = "SimpleCraft";
-	public static final String MOD_NAME_CORE = "SimpleCraft|Core";
-	public static final String MOD_VERSION = "1.7.10-0.1-Alpha";
-	
-
-}

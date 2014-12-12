@@ -1,4 +1,0 @@
-SimpleCraft
-===========
-
-Making Minecraft Simple

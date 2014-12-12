@@ -1,8 +1,0 @@
-package com.brandomine.simplecraft.references;
-
-public class Name {
-	public static String MOD_NAME = SimpleCraft;
-	public static String MOD_ID = simplecraft;
-	public static String CLIENT_PROXY = null;
-	public static String COMMON_PROXY = null;
-}

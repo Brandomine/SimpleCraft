@@ -1,8 +1,0 @@
-package com.simplecraft;
-
-import cpw.mods.fml.common.Mod;
-
-@Mod(name = "SimpleCraft Machines", modid = "SimpleCraft|Machines", version = "alpha 0.0.2")
-public class SimpleCraftMachines {
-
-}

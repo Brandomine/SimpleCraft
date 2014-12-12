@@ -1,5 +1,0 @@
-package com.simplecraft.tech.proxy;
-
-public interface IProxy {
-
-}
